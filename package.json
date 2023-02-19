@@ -1,6 +1,6 @@
 {
   "name": "jake-chan",
-  "version": "2.6.5",
+  "version": "3.1.2",
   "description": "My Name's Jake And I'm From The Philippines",
   "scripts": {
     "test": "mocha",
